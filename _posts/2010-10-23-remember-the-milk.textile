@@ -1,0 +1,263 @@
+---
+layout: default
+title: Remember the Milk
+slug: remember-the-milk
+---
+
+<header class="container">
+  <div class="photo">
+    <img src="/images/{{page.slug}}/373399824_2a48273bd9_b.jpeg" alt="" />
+  </div>
+
+  <div class="column span-10">
+    <h1>Remember <span>the</span> Milk</h1>
+
+p(first). <span class="lquo">“</span>Hey Andrew, what are you doing after school today?” Matt yelled to me as my sister and I walked to my car. At five-foot-four and two hundred and thirty pounds, his hefty frame limited his running ability to a brisk wobble.
+
+“Well, I’ve got to take my sister home, but that’s about it. Why? Do you guys have something planned?”
+
+“Me, Sana, you, and Frank—we’re going to have a milk drinking contest, are you up for it?
+  </div>
+</header>
+
+<div class="first section right">
+“Umm… I’m kind of sick.”
+
+“Sick? Aw, c’mon! You never get sick.”
+
+“I know, but not that kind of sick, stomach sick—like gastrointestinal kind of sick. Plus I ate a whole bunch of lasagna for lunch, probably a pound of it—not smart, but I was so hungry. I can’t hold down a gallon of milk right now, it’s impossible.”
+
+“Oh, that’s nasty. Well you should just be there, it’s going to be great, and we have a whole bunch of people coming to watch.”
+
+“Well, if I’m going to be there, I might as well do it.”
+
+“So are you going to do it?”
+
+“Hell yeah!” I turned to my sister, “Do you want to come?”
+
+“Uh…” she rolled her eyes, “aren’t you guys just going to throw all that up?”
+
+Matt and I looked at each other and agreed, “Yeah, probably, most likely. I mean, we ate a whole bunch of food for lunch too.”
+
+“Sure, I’ll go, it’s going to be disgusting though,” she shook her head.
+
+My sister and I got in the car and drove to Matt’s house. She turned to me at a stoplight, “Wouldn’t it be a better idea if you didn’t do this? I mean you are sick and all.”
+
+“Yeah, but I don’t know, maybe this will be good for it.”
+</div>
+
+<div class="section">
+3:45 PM—Matt’s garage door opened as Frank—in his signature intelligent, athletic, but goofy American-born Chinese immigrant manner—stumbled carrying a small table toward the end of the driveway. Sana followed them with two one-gallon bottles of milk, “Hey Andrew, can you get the other two from the fridge?”
+
+“Sure,” I said, “Why are we drinking this on the street?”
+
+Matt looked at me like the answer was obvious, “Dude, I’m not going to have a bunch of guys throwing up in my house.”
+
+“Oh yeah!” Sana yelled enthusiastically. “This is going to be great. I love milk!”
+
+I looked around: the table was set up at the end of the driveway with four chairs pulled up next to a gallon of milk. Matt took out his cell phone and made a call—I gave him a puzzled look, “Who are you calling? Aren’t we going to start soon?”
+
+“Some of the girls are coming to watch,” Frank answered.
+
+“Yeah,” Sana added, “Aegean, Sheila, Summer, and Rachel said they’d come.”
+
+3:58 PM—“This is going to be so gross,” Aegean commented.
+
+Sheila laughed, “Tell me when you guys are going to barf so I can get my camera out.”
+
+The four of us sat down at the table and the girls, along with my sister, stood a few yards away. Sana shielded his distinctively Persian features from the sun and squinted his eyes. We all looked at Frank as he reached into his pocket and pulled out a pair of individually wrapped capsules.
+
+“What’s that?” Sana asked.
+
+“Pills,” Frank said nonchalantly, popping them into his mouth and washing them down with a small sip of milk, “I’m lactose intolerant.”
+
+“What?” I looked at Frank incredulously, “Then why are you doing this?”
+
+“Dude, aren’t you lactose intolerant too?” he leaned back in his chair. I shook my head. “Oh,” Frank continued, “I thought all Asians are lactose intolerant.”
+
+Matt rubbed his belly and took hold of his gallon of milk, “You guys are going to pay me back for this, right?”
+
+Sana clapped his hands together, “Let’s get started!”
+</div>
+
+<div class="section right">
+4:10 PM—I set the gallon of milk down on the table and looked around, “Wow, this actually tastes pretty good, I haven’t drank milk in the longest time!”
+
+Sana sets down his gallon of milk, “Do you guys think there’s a strategy to this?” As the self-proclaimed master of Risk: The Game of World Domination, Sana believed he had a strategy for everything and anything.
+
+Frank and Matt both set down their milk jugs. Matt takes a deep, hard breath, “I’m so going to beat you guys.”
+
+“I bet this is a lot like eating a lot of food,” Frank said, “you should pace yourself or maybe drink a whole lot now and give it part of the hour to get pushed down. Either way, I’m going to beat you guys.”
+
+“No way,” objected Sana, “I’m so going to beat you guys. I can’t throw up, it’s physically impossible for me. Besides, I love milk.”
+
+Frank let out a whaling Tarzan scream, “I’m a bottomless pit, dude!”
+
+4:20 PM—Matt put down his milk jug and stood up, “It feels so much better to stand.”
+
+We all stood up and let out a sigh of relief. “Is it possible to hold down a gallon of milk? Didn’t Mrs. Phelps say we’re going to mess up our stomach lining?”
+
+Matt’s my best friend, but he’s and an idiot, I had to set him straight, “Dude, Mrs. Phelps is a Spanish teacher. You know that, right?”
+
+Sana tried explaining, “Well I don’t think the milk ever gets properly digested. We don’t produce enough lactase.”
+
+“Dude,” I interrupted, “it’s because the milk is slightly basic, neutralizing our stomach acids.”
+
+Everyone laughed at me, I don’t know why.
+
+4:25 PM—Sana rubbed his stomach, his belly protruding from his skinny frame, “Are any of you guys really full?”
+
+“I had almost a pound of lasagna for lunch,” I told him.
+
+Sana responded, “Me, Matt, and Frank went to Taco Bell for lunch and had ten of those dollar tacos, each.”
+
+“Dude!” I didn’t think Sana understood, “A pound of lasagna!”
+
+Frank rubbed his stomach and stretched out his arms, “You now when you think have you to throw up but don’t throw up for a while and then you finally throw up?”
+
+That sounds familiar. I nodded, “Yeah, I know that feeling.”
+
+“Feels good when you finally throw up, doesn’t it?”
+
+Matt agreed with the two words that should never come out of a short fat kid from white suburbia, “Tru dat.”
+
+By 4:30 PM, the girls were already getting impatient. Aegean tried to rush us, “Why don’t you guys just hurry up and drink it already so we can see you barf?”
+
+“Ew! I don’t know why I’m here,” Summer admitted, “I can’t stand people throwing up.”
+
+My sister laughed.
+</div>
+
+<div class="section">
+“Alright guys, I’ve got a big one coming through here!” I yelled as I began to chug.
+
+The guys cheered, my sister laughed, and Sana yelled, “Dude! He’s going to throw up for drinking it that fast! You’ve got to take it a glass at a time!”
+
+I put down the bottle, “Damn, I’m good!”
+
+The girls took a few steps back from the milk drinker’s table. Summer looked the most concerned, “Are you going to throw up?”
+
+“No way! I’m going to win this entire thing! Look how much I have left! There’s like maybe a glass or two.” My stomach ached from being so full.
+
+“Andrew,” Matt laughed, “that’s half the bottle left, not just two glasses.”
+
+“Wait, do you guys have a bet going or anything? Do you get something for winning?”
+
+I looked at the other guys, confused about her question. I shook my head, “No, there’s no bet.”
+
+Summer was puzzled, “Then why are you doing this?”
+
+“Because we can,” Matt answered.
+
+Sana gave a better answer, “Because we’re crazy like that!”
+
+I gave the best answer, “Because we’re bad asses.”
+</div>
+
+<div class="section">
+4:35 PM—Matt, Frank, and I looked at each other, Sana stood over the half gallon of milk. Each of us took hold of our jug and nodded, “Let’s do it.”
+
+We picked up the milk in one synchronized motion and began chugging as much as possible—as much as we could hold for however long we could hold it for. We were on a mission to rock.
+
+After 45 seconds, Matt stopped first, then Frank, and finally, me. Matt rubbed his zaftig belly, “Hey guys, I think I’m going to throw up.”
+
+We wheeled out a 2-foot tall mopping bucket onto the sidewalk and followed Matt to it. Summer started getting anxious, “Ew! Ew! Why is he throwing up in a bucket??”
+
+“We’re all going to throw up in the same bucket,” Sana explained.
+
+Matt leaned over the bucket with his hands on his hips, opened his mouth, and stuck his tongue out when he began to laugh uncontrollably. His short, thick frame jiggled with each chuckle and his face turned bright red. He covered his face with one hand, trying to shield himself from the embarrassment.
+
+“Wait! Wait!” Sheila yelled. “Not yet! I need to get the camera.”
+
+Matt lifted his face toward the sky and let out a deep grunting scream. That did it: A quarter gallon of partially digested milk spewed into the air and plummeted into the bucket as Matt’s head snapped downward.
+
+Summer covered her mouth and shrieked. She ran to her car across the street and sped away.
+
+I laughed uncontrollably. I stumbled every time Matt started to grunt knowing that each deep grunt meant another spurt of white vomit. I forced out a few words, “Stop! I’m going to throw up from laughing!”
+
+The milk started to bubble and rise at the back of my throat. I tried to runaway so I didn’t have to see or hear Matt’s intimate session with the bucket, but I stumbled into my car and struggled to stay standing until I finally leaned against a stop sign three houses down the block.
+
+Matt spit out the last bit of thickened milk and wiped his chin with the back of his wrist, “Wow, I feel so much better.”
+
+I walked back with one hand on my stomach and the other wiping the tears of laughter from my eyes.
+
+I looked in the bucket and nudged at it, shaking it a little to test the fluid’s viscosity, “It’s so lumpy!!”
+
+Frank, Sana, and Matt joined me in inspecting the bucket’s contents. Frank pointed at a few brown lumps in the bucket, “Ew, dude! What’s that!? Did you poop from your mouth?”
+
+I hit Frank’s shoulder, “That’s not poop, man. It looks like ground beef.” Then it hit me, “Eww! You really did have Taco Bell for lunch!! You didn’t even chew, you fat bastard!”
+
+Matt hit me with a flat palm square in the center of my back, “Ouch! Dude!” I turned toward him, ready to return fire, “Dude!” I leaned forward and placed my hands on my thighs for support, “I think I’m going to yak.”
+
+Everyone stepped away from me immediately. Sana reminded me, “In the bucket! Don’t forget the bucket!”
+
+I leaned over the yellow pale, “Hey, someone bring me my milk.”
+
+“Which one is it?” Frank asked.
+
+I pointed toward the table, “It’s the one that says ‘Bad Motherfucker’ on it.”
+
+Frank looked at the milk bottles: Bad Motherfucker. He handed me the bottle. I leaned back over the bucket, left hand on my knee, and the milk bottle dangling in my right hand. My stomach churned. I took another sip of milk. A large bubble next to a half digested chunk of ground beef popped and sprayed the sides of the bucket. I took another sip of milk. I bent my knees and brought my face closer to the bucket: the stench was overwhelming.
+
+
+I have a theory about vomit, like I have a theory about everything I run into on a day to day basis—though I wouldn’t say I run into vomit on a day to day basis, it’s more or less the kind of thing you stumble upon. But anyhow, I have a theory about vomit: No matter what anyone has eaten or drunk or swallowed or whatever, vomit smells the same and looks the same. Try this:
+
+Take one fresh eight once New York steak, one cup mayonnaise, three table spoons ketchup, two cups whole cream, two eggs, and parsley or cilantro for color. Combine in a blender and blend on medium for twenty seconds or until smooth but still chunky. Let sit in the sun for 4 hours. Pour into a bucket or toilet, serve at slightly below body temperature.
+
+That is what all vomit looks like, feels like, and smells like. Although I’ll have to admit, my theories aren’t always right.
+
+
+“Matt! This is disgusting!” I turned around and signaled for the guys to come over, “Come look at this! It’s not even regular barf! It’s white. It’s albino barf!”
+
+Sana looked in the bucket, “Oh wow! It kind of looks like regular milk, except chunky!” He took a whiff of it and covered his mouth in disgust, “I can’t stand the smell of barf.”
+
+I looked up at Sana, “What’s it matter to you? I thought you’re physically incapable of throwing up?”
+
+“Yeah, so, I—”
+
+“Drink your milk over the bucket!” Frank interrupted.
+
+Sana objected, “Hell no!”
+
+I took a large gulp of my milk, “It’s not so bad. C’mon, we’ll all do it. Except for Matt, I think he’s done for today.”
+
+Matt handed Frank and Sana their milk bottles, “Okay, on three!”
+
+“This is nasty. How about in five?” Sana suggested.
+
+Frank was confused, “Five? What difference would it make? What’s wrong with three?”
+
+“Five’s a number too, it’s just as good. So why not count to five? Everyone always counts to three.”
+
+Matt started counting, “Five!”
+
+Frank and I started drinking. Sana shook his head, “Fine.” He raised the bottle to his mouth, closed his eyes, and started gulping down milk.
+
+Matt picked up his milk and brought the mouth of the bottle to his nose. He turned his head away sharply, “Guys, my bottle smells so bad.”
+
+I looked at him, “What’s it taste like?”
+
+Matt brought the bottle to his mouth and looked inside. He shrugged his shoulders and swallowed a mouthful. He shut his eyes and grimaced then covered his mouth and ran toward the bucket. Matt let out a deep grunt and spewed again.
+
+Sana screamed, spitting some milk on Matt’s head, “Ew, man, it’s on my feet!”
+
+Frank dropped his bottle and laughed, “Matt! You’re completely missing the bucket!”
+
+Matt kept throwing up. Sana dropped his bottle and rushed up to the bucket and started throwing up.
+
+Frank covered his mouth just as a spray of regurgitated milk found its way out. Matt, still leaning over the bucket, started laughing. Frank rushed over to the bucket, pushed Matt away, and spewed out nearly a gallon of milk. Sana wiped his mouth and turned away, vomiting onto the street.
+
+I started laughing hysterically and tried to take another sip of milk, but managed to drench my shirt instead. Finally, I stepped up the bucket where Frank was still throwing up and looked in the bucket. The mixture of vomit boiled, it popped and bubbled. Sana turned around and threw up, although with his eyes closed, I don’t know if he was purposefully aiming for my feet. I leaned over just as Frank threw up again and let go.
+
+A gallon of milk forced it’s way up my throat and avalanched into the bucket. I closed my eyes as I took a deep breath and heard another wave of vomit crash into the bucket. The sound of Frank and Sana next to me echoed until finally, laughter took over.
+
+I tried to open my eyes but my laughter pinched them shut. When I finally opened them, Frank, Matt, and Sana were huddled around the bucket with me. “Andrew! What the hell did you eat for lunch!?” Frank asked.
+	
+“Lasagna,” I gasped, “a whole bunch of it.”
+
+“It looks like cottage cheese,” Matt observed.
+
+I nodded, “I’ve always wondered how they made that stuff.”
+
+We were always good at figuring things out together.
+</div>

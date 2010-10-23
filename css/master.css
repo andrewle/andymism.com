@@ -1,0 +1,146 @@
+/*
+-------------------------------------------------------------------- */
+
+header.site {
+  background-color: #222;
+  border-bottom: 1px solid #333;
+  color: white;
+  font-family: Palatino, Times, sans-serif;
+  margin: 0;
+  padding: 0.75em 0;
+}
+
+header.site .colophon {
+  color: #999;
+  float: right;
+  line-height: 3em;
+  margin: 0;
+  text-align: right;
+}
+
+header.site .colophon a {
+  color: #999;
+}
+
+header.site a {
+  color: white;
+  text-decoration: none;
+}
+
+header.site h1 {
+  font-size: 1.5em;
+  margin: 0;
+  text-transform: uppercase;
+}
+
+header.site .tagline {
+  text-transform: lowercase;
+}
+
+header.site p {
+  margin: 0;
+}
+
+#main {
+  position: relative;
+}
+
+#main header,
+#main footer,
+#main article {
+  margin: 0 auto;
+  width: 950px;
+}
+
+/*
+-------------------------------------------------------------------- */
+#main article {
+  margin-bottom: 8em;
+}
+
+article p {
+  font-family: Georgia, Times, serif;
+  font-size: 1.3em;
+}
+
+article header,
+article header .photo {
+  height: 620px;
+}
+
+article header {
+  overflow: hidden;
+}
+
+article header h1 {
+  border-bottom: 1px solid #666;
+  border-top: 1px solid #666;
+  color: #222;
+  font-family: Georgia, Times, serif;
+  font-size: 4em;
+  font-style: italic;
+  font-weight: normal;
+  margin-bottom: 0.75em;
+  padding: 0.25em 0;
+  text-align: center;
+}
+
+article header h1 span {
+  display: block;
+  font-size: 0.5em;
+  margin: 0.5em 0;
+}
+
+article header .photo {
+  margin-left: -50px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1024px;
+}
+
+article header .column {
+  background-color: white;
+  float: right;
+  height: 100%;
+  margin: 0;
+  padding: 9em 2em 0;
+  position: relative;
+  z-index: 1;
+}
+
+article header p.first:first-line {
+  font-size: 1.4em;
+}
+
+article header .lquo {
+  font-size: 2.5em;
+  font-weight: bold;
+  left: -0.25em;
+  line-height: 0;
+  margin-right: -0.1em;
+  position: relative;
+  top: 0.4em;
+}
+
+/*
+-------------------------------------------------------------------- */
+article div.section {
+  float: right;
+  margin-top: 3em;
+  margin-left: 10px;
+  width: 630px;
+}
+
+
+/* Clearfixed elements
+-------------------------------------------------------------------- */
+#main article:after {
+  content: "\0020";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+  overflow:hidden;
+}
