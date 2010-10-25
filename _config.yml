@@ -11,7 +11,8 @@ future:      true
 lsi:         false
 pygments:    false
 markdown:    maruku
-permalink:   /:title 
+permalink:   /issues/:title 
+exclude:     Rakefile
 
 maruku:
   use_tex:    false
