@@ -257,5 +257,19 @@ We were always good at figuring things out together.
 </div>
 
 <footer>
-  <p>Written by Andrew Le, who also designed and developed this website. This same Andrew Le, which is his real name, also develops other people's websites&mdash;which he prefers to think of as software applications&mdash;on a freelance basis.</p>
+<p>Written by Andrew Le, who also designed and developed this website. This same Andrew Le, which is his real name, also develops other people's websites&mdash;which he prefers to think of as software applications&mdash;on a freelance basis. You can email him at: <span id="eeEncEmail_siHwR6OKhs"></span></p>
+
+<script type="text/javascript">
+//<![CDATA[
+var l=new Array();
+var output = '';
+l[0]='>';l[1]='a';l[2]='/';l[3]='<';l[4]=' 109';l[5]=' 111';l[6]=' 99';l[7]=' 46';l[8]=' 101';l[9]=' 108';l[10]=' 100';l[11]=' 119';l[12]=' 101';l[13]=' 114';l[14]=' 100';l[15]=' 110';l[16]=' 97';l[17]=' 64';l[18]=' 119';l[19]=' 101';l[20]=' 114';l[21]=' 100';l[22]=' 110';l[23]=' 97';l[24]='>';l[25]='\"';l[26]=' 109';l[27]=' 111';l[28]=' 99';l[29]=' 46';l[30]=' 101';l[31]=' 108';l[32]=' 100';l[33]=' 119';l[34]=' 101';l[35]=' 114';l[36]=' 100';l[37]=' 110';l[38]=' 97';l[39]=' 64';l[40]=' 119';l[41]=' 101';l[42]=' 114';l[43]=' 100';l[44]=' 110';l[45]=' 97';l[46]=':';l[47]='o';l[48]='t';l[49]='l';l[50]='i';l[51]='a';l[52]='m';l[53]='\"';l[54]='=';l[55]='f';l[56]='e';l[57]='r';l[58]='h';l[59]='a ';l[60]='<';
+for (var i = l.length-1; i >= 0; i=i-1){ 
+if (l[i].substring(0, 1) == ' ') output += "&#"+unescape(l[i].substring(1))+";"; 
+else output += unescape(l[i]);
+}
+document.getElementById('eeEncEmail_siHwR6OKhs').innerHTML = output;
+//]]>
+
+</script>
 </footer>
