@@ -12,11 +12,11 @@ slug: remember-the-milk
   <div class="column span-10">
     <h1>Remember <span>the</span> Milk</h1>
 
-p(first). <span class="lquo">“</span>Hey Andrew, what are you doing after school today?” Matt yelled to me as my sister and I walked to my car. At five-foot-four and two hundred and thirty pounds, his hefty frame limited his running ability to a brisk wobble.
+p(first). <span class="lquo">“</span>Hey Andrew!” Matt yelled to me as my sister and I walked to my car. At five-foot-four and two hundred and thirty pounds, his hefty frame limited his running ability to a brisk wobble. “What are you doing after school today?” 
 
 “Well, I’ve got to take my sister home, but that’s about it. Why? Do you guys have something planned?”
 
-“Me, Sana, you, and Frank—we’re going to have a milk drinking contest, are you up for it?
+“Me, Sana, you, and Frank&mdash;we’re going to have a milk drinking contest, are you up for it?&rdquo;
   </div>
 </header>
 
@@ -25,37 +25,37 @@ p(first). <span class="lquo">“</span>Hey Andrew, what are you doing after scho
 
 “Sick? Aw, c’mon! You never get sick.”
 
-“I know, but not that kind of sick, stomach sick—like gastrointestinal kind of sick. Plus I ate a whole bunch of lasagna for lunch, probably a pound of it—not smart, but I was so hungry. I can’t hold down a gallon of milk right now, it’s impossible.”
+“I know, but not that kind of sick, stomach sick—like gastrointestinal kind of sick. Plus I ate a whole bunch of lasagna for lunch, probably a pound of it&mdash;not smart, but I was so hungry. I can’t hold down a gallon of milk right now. It’s impossible.”
 
 “Oh, that’s nasty. Well you should just be there, it’s going to be great, and we have a whole bunch of people coming to watch.”
 
 “Well, if I’m going to be there, I might as well do it.”
 
-“So are you going to do it?”
+“So&hellip; are you going to do it?”
 
-“Hell yeah!” I turned to my sister, “Do you want to come?”
+“Hell yeah.” I turned to my sister, “Do you want to come?”
 
 “Uh…” she rolled her eyes, “aren’t you guys just going to throw all that up?”
 
 Matt and I looked at each other and agreed, “Yeah, probably, most likely. I mean, we ate a whole bunch of food for lunch too.”
 
-“Sure, I’ll go, it’s going to be disgusting though,” she shook her head.
+“Sure, I’ll go, it’s going to be disgusting though,” she said, shaking her head.
 
-My sister and I got in the car and drove to Matt’s house. She turned to me at a stoplight, “Wouldn’t it be a better idea if you didn’t do this? I mean you are sick and all.”
+My sister and I got in the car and drove to Matt’s house. She looked at me at a stoplight, “Wouldn’t it be a better idea if you didn’t do this? I mean you are sick and all.”
 
 “Yeah, but I don’t know, maybe this will be good for it.”
 </div>
 
 <div class="section">
-3:45 PM—Matt’s garage door opened as Frank—in his signature intelligent, athletic, but goofy American-born Chinese immigrant manner—stumbled carrying a small table toward the end of the driveway. Sana followed them with two one-gallon bottles of milk, “Hey Andrew, can you get the other two from the fridge?”
+3:45 PM—Matt’s garage door opened as Frank—in his paradoxically athletic and goofy American-born Chinese immigrant manner—stumbled carrying a small table toward the end of the driveway. Sana followed them with two one-gallon bottles of milk, “Hey Andrew, can you get the other two from the fridge?”
 
 “Sure,” I said, “Why are we drinking this on the street?”
 
-Matt looked at me like the answer was obvious, “Dude, I’m not going to have a bunch of guys throwing up in my house.”
+Matt looked at me as if the the answer were obvious, “Dude, I’m not going to have a bunch of guys throwing up in my house.”
 
-“Oh yeah!” Sana yelled enthusiastically. “This is going to be great. I love milk!”
+“Oh yeah!” Sana was always full of enthusiasm. “This is going to be great. I love milk!”
 
-I looked around: the table was set up at the end of the driveway with four chairs pulled up next to a gallon of milk. Matt took out his cell phone and made a call—I gave him a puzzled look, “Who are you calling? Aren’t we going to start soon?”
+I looked around: the table was set up at the end of the driveway with four chairs pulled up next to a gallon of milk. Matt took out his cell phone and made a call&mdash;I gave him a puzzled look, “Who are you calling? Aren’t we going to start soon?”
 
 “Some of the girls are coming to watch,” Frank answered.
 
@@ -65,15 +65,15 @@ I looked around: the table was set up at the end of the driveway with four chair
 
 Sheila laughed, “Tell me when you guys are going to barf so I can get my camera out.”
 
-The four of us sat down at the table and the girls, along with my sister, stood a few yards away. Sana shielded his distinctively Persian features from the sun and squinted his eyes. We all looked at Frank as he reached into his pocket and pulled out a pair of individually wrapped capsules.
+The four of us sat down at the table and the girls, along with my sister, stood a few yards away. Sana shielded his distinctively Persian features from the sun and squinted his eyes. We looked at Frank as he reached into his pocket and pulled out a pair of individually wrapped capsules.
 
 “What’s that?” Sana asked.
 
-“Pills,” Frank said nonchalantly, popping them into his mouth and washing them down with a small sip of milk, “I’m lactose intolerant.”
+“Pills,” Frank said nonchalantly. He popped them into his mouth and washed them down with a small sip of milk. “I’m lactose intolerant.”
 
 “What?” I looked at Frank incredulously, “Then why are you doing this?”
 
-“Dude, aren’t you lactose intolerant too?” he leaned back in his chair. I shook my head. “Oh,” Frank continued, “I thought all Asians are lactose intolerant.”
+“Dude, aren’t you lactose intolerant too?” he leaned back in his chair. I shook my head. “Oh,” Frank continued, “I thought all Asians were lactose intolerant.”
 
 Matt rubbed his belly and took hold of his gallon of milk, “You guys are going to pay me back for this, right?”
 
@@ -81,13 +81,13 @@ Sana clapped his hands together, “Let’s get started!”
 </div>
 
 <div class="section right">
-4:10 PM—I set the gallon of milk down on the table and looked around, “Wow, this actually tastes pretty good, I haven’t drank milk in the longest time!”
+4:10 PM—I set the gallon of milk down on the table and looked around, “Wow, this actually tastes pretty good, I haven’t drank milk in the longest time.”
 
-Sana sets down his gallon of milk, “Do you guys think there’s a strategy to this?” As the self-proclaimed master of Risk: The Game of World Domination, Sana believed he had a strategy for everything and anything.
+Sana set down his gallon of milk, “Do you guys think there’s a strategy to this?” As the self-proclaimed master of Risk: The Game of World Domination, Sana believed he had a strategy for everything and anything.
 
-Frank and Matt both set down their milk jugs. Matt takes a deep, hard breath, “I’m so going to beat you guys.”
+Frank and Matt plopped their milk jugs on the table. Matt took a deep, hard breath, “I’m so going to beat you guys.”
 
-“I bet this is a lot like eating a lot of food,” Frank said, “you should pace yourself or maybe drink a whole lot now and give it part of the hour to get pushed down. Either way, I’m going to beat you guys.”
+“I bet this is a lot like eating a lot of food,” Frank said, “you should pace yourself or maybe drink a whole lot now and give it part of the hour to get pushed down. Either way, _I_ am going to beat you guys.”
 
 “No way,” objected Sana, “I’m so going to beat you guys. I can’t throw up, it’s physically impossible for me. Besides, I love milk.”
 
@@ -97,7 +97,7 @@ Frank let out a whaling Tarzan scream, “I’m a bottomless pit, dude!”
 
 We all stood up and let out a sigh of relief. “Is it possible to hold down a gallon of milk? Didn’t Mrs. Phelps say we’re going to mess up our stomach lining?”
 
-Matt’s my best friend, but he’s and an idiot, I had to set him straight, “Dude, Mrs. Phelps is a Spanish teacher. You know that, right?”
+Matt’s my best friend, but he’s and an idiot. I had to set him straight, “Dude, Mrs. Phelps is a Spanish teacher. You know that, right?”
 
 Sana tried explaining, “Well I don’t think the milk ever gets properly digested. We don’t produce enough lactase.”
 
@@ -105,13 +105,13 @@ Sana tried explaining, “Well I don’t think the milk ever gets properly diges
 
 Everyone laughed at me, I don’t know why.
 
-4:25 PM—Sana rubbed his stomach, his belly protruding from his skinny frame, “Are any of you guys really full?”
+4:25 PM—Sana rubbed his stomach, his belly protruded from his skinny frame, “Are any of you guys really full?”
 
 “I had almost a pound of lasagna for lunch,” I told him.
 
-Sana responded, “Me, Matt, and Frank went to Taco Bell for lunch and had ten of those dollar tacos, each.”
+Sana responded, “Me, Matt, and Frank went to Taco Bell for lunch and had ten of those dollar tacos each.”
 
-“Dude!” I didn’t think Sana understood, “A pound of lasagna!”
+“Dude!” I didn’t think Sana understood, “A _pound_ of lasagna.”
 
 Frank rubbed his stomach and stretched out his arms, “You now when you think have you to throw up but don’t throw up for a while and then you finally throw up?”
 
@@ -125,7 +125,7 @@ By 4:30 PM, the girls were already getting impatient. Aegean tried to rush us, �
 
 “Ew! I don’t know why I’m here,” Summer admitted, “I can’t stand people throwing up.”
 
-My sister laughed.
+My sister just laughed.
 </div>
 
 <div class="section">
@@ -173,9 +173,9 @@ Matt lifted his face toward the sky and let out a deep grunting scream. That did
 
 Summer covered her mouth and shrieked. She ran to her car across the street and sped away.
 
-I laughed uncontrollably. I stumbled every time Matt started to grunt knowing that each deep grunt meant another spurt of white vomit. I forced out a few words, “Stop! I’m going to throw up from laughing!”
+My eyes nearly sealed shut as I started laughing uncontrollably. I stumbled every time Matt started to grunt knowing that each deep grunt meant another spurt of white vomit. I forced out a few words, “Stop! I’m going to throw up from laughing!”
 
-The milk started to bubble and rise at the back of my throat. I tried to runaway so I didn’t have to see or hear Matt’s intimate session with the bucket, but I stumbled into my car and struggled to stay standing until I finally leaned against a stop sign three houses down the block.
+The milk started to bubble and rise at the back of my throat. I tried to runaway to avoid seeing or hearing Matt’s intimate session with the bucket, but I stumbled into my car and struggled to stay standing until I finally leaned against a stop sign three houses down the block.
 
 Matt spit out the last bit of thickened milk and wiped his chin with the back of his wrist, “Wow, I feel so much better.”
 
@@ -191,7 +191,7 @@ Matt hit me with a flat palm square in the center of my back, “Ouch! Dude!” 
 
 Everyone stepped away from me immediately. Sana reminded me, “In the bucket! Don’t forget the bucket!”
 
-I leaned over the yellow pale, “Hey, someone bring me my milk.”
+I leaned over the yellow pail, “Hey, someone bring me my milk.”
 
 “Which one is it?” Frank asked.
 
@@ -199,17 +199,11 @@ I pointed toward the table, “It’s the one that says ‘Bad Motherfucker’ o
 
 Frank looked at the milk bottles: Bad Motherfucker. He handed me the bottle. I leaned back over the bucket, left hand on my knee, and the milk bottle dangling in my right hand. My stomach churned. I took another sip of milk. A large bubble next to a half digested chunk of ground beef popped and sprayed the sides of the bucket. I took another sip of milk. I bent my knees and brought my face closer to the bucket: the stench was overwhelming.
 
+I have a theory about vomit, like I have a theory about everything I run into on a day to day basis—though I wouldn’t say I run into vomit on a day to day basis, it’s more or less the kind of thing you stumble upon. But anyhow, I have a theory about vomit: No matter what anyone has eaten or drunk or swallowed or whatever, vomit smells the same and looks the same.
 
-I have a theory about vomit, like I have a theory about everything I run into on a day to day basis—though I wouldn’t say I run into vomit on a day to day basis, it’s more or less the kind of thing you stumble upon. But anyhow, I have a theory about vomit: No matter what anyone has eaten or drunk or swallowed or whatever, vomit smells the same and looks the same. Try this:
+“Matt! This is disgusting!” I turned around and signaled for the guys to come over, “Come look at this! It’s not even regular barf! It’s white. It’s albino barf.”
 
-Take one fresh eight once New York steak, one cup mayonnaise, three table spoons ketchup, two cups whole cream, two eggs, and parsley or cilantro for color. Combine in a blender and blend on medium for twenty seconds or until smooth but still chunky. Let sit in the sun for 4 hours. Pour into a bucket or toilet, serve at slightly below body temperature.
-
-That is what all vomit looks like, feels like, and smells like. Although I’ll have to admit, my theories aren’t always right.
-
-
-“Matt! This is disgusting!” I turned around and signaled for the guys to come over, “Come look at this! It’s not even regular barf! It’s white. It’s albino barf!”
-
-Sana looked in the bucket, “Oh wow! It kind of looks like regular milk, except chunky!” He took a whiff of it and covered his mouth in disgust, “I can’t stand the smell of barf.”
+Sana looked in the bucket, “Oh wow! It kind of looks like regular milk, except chunky.” He took a whiff of it and covered his mouth, wincing. “I can’t stand the smell of barf.”
 
 I looked up at Sana, “What’s it matter to you? I thought you’re physically incapable of throwing up?”
 
@@ -261,3 +255,7 @@ I nodded, “I’ve always wondered how they made that stuff.”
 
 We were always good at figuring things out together.
 </div>
+
+<footer>
+  <p>Written by Andrew Le, who also designed and developed this website. This same Andrew Le, which is his real name, also develops other people's websites&mdash;which he prefers to think of as software applications&mdash;on a freelance basis.</p>
+</footer>
