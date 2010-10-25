@@ -126,7 +126,8 @@ article header .lquo {
 
 /*
 -------------------------------------------------------------------- */
-article div.section {
+article div.section,
+#main article footer {
   float: right;
   margin-top: 3em;
   margin-left: 10px;
@@ -134,6 +135,12 @@ article div.section {
   width: 630px;
 }
 
+#main article footer {
+  border-top: 1px solid #aaa;
+  color: #666;
+  font-size: 0.875em;
+  padding-top: 1.5em;
+}
 
 /* Clearfixed elements
 -------------------------------------------------------------------- */
