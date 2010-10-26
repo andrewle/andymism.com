@@ -20,7 +20,12 @@ p(first). <span class="lquo">“</span>Hey Andrew!” Matt yelled to me as my si
   </div>
 </header>
 
-<div class="first section right">
+<aside>
+  Photo: <a href="http://www.flickr.com/photos/adamchamness/373399824/" title="Milk in Crate by Adam Chamness, on Flickr">Milk in Crate</a><br/>
+  by Adam Chamness
+</aside>
+
+<section class="first">
 “Umm… I’m kind of sick.”
 
 “Sick? Aw, c’mon! You never get sick.”
@@ -44,9 +49,9 @@ Matt and I looked at each other and agreed, “Yeah, probably, most likely. I me
 My sister and I got in the car and drove to Matt’s house. She looked at me at a stoplight, “Wouldn’t it be a better idea if you didn’t do this? I mean you are sick and all.”
 
 “Yeah, but I don’t know, maybe this will be good for it.”
-</div>
+</section>
 
-<div class="section">
+<section>
 3:45 PM—Matt’s garage door opened as Frank—in his paradoxically athletic and goofy American-born Chinese immigrant manner—stumbled carrying a small table toward the end of the driveway. Sana followed them with two one-gallon bottles of milk, “Hey Andrew, can you get the other two from the fridge?”
 
 “Sure,” I said, “Why are we drinking this on the street?”
@@ -78,9 +83,9 @@ The four of us sat down at the table and the girls, along with my sister, stood 
 Matt rubbed his belly and took hold of his gallon of milk, “You guys are going to pay me back for this, right?”
 
 Sana clapped his hands together, “Let’s get started!”
-</div>
+</section>
 
-<div class="section right">
+<section>
 4:10 PM—I set the gallon of milk down on the table and looked around, “Wow, this actually tastes pretty good, I haven’t drank milk in the longest time.”
 
 Sana set down his gallon of milk, “Do you guys think there’s a strategy to this?” As the self-proclaimed master of Risk: The Game of World Domination, Sana believed he had a strategy for everything and anything.
@@ -126,9 +131,9 @@ By 4:30 PM, the girls were already getting impatient. Aegean tried to rush us, �
 “Ew! I don’t know why I’m here,” Summer admitted, “I can’t stand people throwing up.”
 
 My sister just laughed.
-</div>
+</section>
 
-<div class="section">
+<section>
 “Alright guys, I’ve got a big one coming through here!” I yelled as I began to chug.
 
 The guys cheered, my sister laughed, and Sana yelled, “Dude! He’s going to throw up for drinking it that fast! You’ve got to take it a glass at a time!”
@@ -152,9 +157,9 @@ Summer was puzzled, “Then why are you doing this?”
 Sana gave a better answer, “Because we’re crazy like that!”
 
 I gave the best answer, “Because we’re bad asses.”
-</div>
+</section>
 
-<div class="section">
+<section>
 4:35 PM—Matt, Frank, and I looked at each other, Sana stood over the half gallon of milk. Each of us took hold of our jug and nodded, “Let’s do it.”
 
 We picked up the milk in one synchronized motion and began chugging as much as possible—as much as we could hold for however long we could hold it for. We were on a mission to rock.
@@ -254,7 +259,7 @@ I tried to open my eyes but my laughter pinched them shut. When I finally opened
 I nodded, “I’ve always wondered how they made that stuff.”
 
 We were always good at figuring things out together.
-</div>
+</section>
 
 <footer>
 <p>Written by Andrew Le, who also designed and developed this website. This same Andrew Le, which is his real name, also develops other people's websites&mdash;which he prefers to think of as software applications&mdash;on a freelance basis. You can email him at: <span id="eeEncEmail_siHwR6OKhs"></span></p>
